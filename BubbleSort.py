@@ -10,7 +10,7 @@ def bubbleSort(arr):
 
     return (arr)
 
-myList = [12,76,13,98,34,62]
+myList = [12,76,13,98,34,62,100]
 myList = bubbleSort(myList)
 print(myList)
 
